@@ -1,5 +1,5 @@
 // 16520063 / PUTRI NURHALIZA
-// 16920188 / FADIL ALDITO PUTRA
+// 16920188 / FADHIL ALDITO PUTRA
 // 16420189 / BAGAS SHALAHUDDIN WAHID
 
 
@@ -127,7 +127,7 @@ int main(){
     int botDmgRange = 3;
 
     // posisi awal dan atribut Kecoak
-    int nEnemy = 5;
+    int nEnemy = 20;
     int dead_Enemy = 0;
     int enmyDamage = 500;
     int enmyDmgRange = 3;
