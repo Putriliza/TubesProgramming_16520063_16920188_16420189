@@ -19,7 +19,7 @@ Jadi, robot dapat menerima damage dari > 1 kecoak sekaligus. <br>
 Cara menjalankan program
 1. Run untuk memulai
 2. Program akan menampilkan posisi kecoak terdekat dari robot untuk menuntun perjalanan robot
-3. Pilih opsi, apakah ingin bergerak, menembak, atau berhenti
+3. Pilih opsi, 1 untuk bergerak, 2 untuk menembak, atau 3 untuk berhenti
 4. Jika bergerak, pilih kiri, kanan, maju, atau mundur
 	Robot hanya dapat bergerak di koordinat positif dan tidak dapat menabrak kecoak
 5. Jika menembak, robot hanya dapat menembak kecoak yang berada di dalam range damagenya
@@ -28,7 +28,7 @@ Cara menjalankan program
 8. Jalankan robot dan tembak kecoak semaksimal mungkin untuk menang
 9. Jika ingin berhenti, pilih berhenti pada opsi
 10. Program juga akan berhenti ketika health robot habis
-11. Program juga akan berhenti ketika tidak ada kecoak yang tersisa
+11. Program juga akan berhenti ketika semua kecoak telah dibunuh
 
 
 https://github.com/Putriliza/TubesProgramming_16520063_16920188_16420189.git
