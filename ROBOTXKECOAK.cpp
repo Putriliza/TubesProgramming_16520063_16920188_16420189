@@ -127,7 +127,7 @@ int main(){
     int botDmgRange = 3;
 
     // posisi awal dan atribut Kecoak
-    int nEnemy = 5;
+    int nEnemy = 20;
     int dead_Enemy = 0;
     int enmyDamage = 500;
     int enmyDmgRange = 3;
@@ -136,7 +136,7 @@ int main(){
     for (int i = 0; i < posEnemy.size(); i++){
         posEnemy[i].resize(3);
         posEnemy[i][0] = (rand() % 20) + 1;    // absis posisi kecoak
-        posEnemy[i][1] = (rand() % 20) + 1;    // ordinat posisi Y kecoak
+        posEnemy[i][1] = (rand() % 20) + 1;    // ordinat posisi kecoak
         posEnemy[i][2] = 1000;                 // atribut health kecoak
     }
 
