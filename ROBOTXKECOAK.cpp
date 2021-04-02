@@ -162,11 +162,6 @@ int main(){
             break;
         }
 
-        if (posEnemy.size() == 0){
-            printf ("CONGRATULATION!! Robot berhasil membunuh seluruh kecoak.\n Total terdapat 20 kecoak.\n");
-            break;
-        }
-
         // pilihan yang akan dilakukan robot
         printf ("\nOpsi 1.Bergerak 2.Menembak 3.Berhenti : ");
         int opsi;
@@ -187,6 +182,11 @@ int main(){
             break;
         }
         else {break;}
+        
+        if (posEnemy.size() == 0){
+            printf ("CONGRATULATION!! Robot berhasil membunuh seluruh kecoak.\nTotal terdapat 20 kecoak.\n");
+            break;
+        }
     
     }
     return 0;
