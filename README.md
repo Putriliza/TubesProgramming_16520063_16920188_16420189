@@ -1,20 +1,20 @@
 TUGAS BESAR PROGRAMMING CAKRU 13 URO ITB
 
-16520063 / PUTRI NURHALIZA\n
-16920188 / FADIL ALDITO PUTRA\n
-16420189 / BAGAS SHALAHUDDIN WAHID\n
+16520063 / PUTRI NURHALIZA <br>
+16920188 / FADIL ALDITO PUTRA <br>
+16420189 / BAGAS SHALAHUDDIN WAHID <br>
 
-Robot health = 5000
-Robot damage = 500
-Robot damage range = 3
-Robot dapat menembak kecoak dalam range
+Robot health = 5000 <br>
+Robot damage = 500 <br>
+Robot damage range = 3 <br>
+Robot dapat menembak kecoak dalam range <br>
 
-Di awal program terdapat 20 kecoak dengan posisi acak di koordinat(maksimal absis 20 dan ordinat 20)
-Kecoak health = 1000
-Kecoak damage = 100
-Kecoak damage range = 3
-Kecoak secara otomatis akan memberikan damage ke robot ketika berada di dalam rangenya
-Jadi, robot dapat menerima damage dari > 1 kecoak sekaligus.
+Di awal program terdapat 20 kecoak dengan posisi acak di koordinat(maksimal absis 20 dan ordinat 20) <br>
+Kecoak health = 1000 <br>
+Kecoak damage = 100 <br>
+Kecoak damage range = 3 <br>
+Kecoak secara otomatis akan memberikan damage ke robot ketika berada di dalam rangenya <br>
+Jadi, robot dapat menerima damage dari > 1 kecoak sekaligus. <br>
 
 Cara menjalankan program
 1. Run untuk memulai
